@@ -1,0 +1,8 @@
+Stworz nowy branch o dowolnej nazwie (dedykowany dodaniu sekcji o nowym zwierzeciu)
+
+Na nowym branchu dodaj sekcje z podobna stuktura do poprzedniej sekcji:
+    h2, img i paragraf z opisem
+
+Wyslij wszystkie zmiany do repozytorium lokalnego
+
+Opublikuj nowy branch na githubie
